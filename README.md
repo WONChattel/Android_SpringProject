@@ -1,4 +1,5 @@
-# turbo-couscous
+# Portfolio_Android_SpringProject
+
 
 recipe Searching project consists of 1 Android App and 1 Spring mybatis project
 1. Android app requests to server and receives data.
