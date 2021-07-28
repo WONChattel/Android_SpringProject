@@ -1,4 +1,4 @@
-# Portfolio_Android_SpringProject
+# Android_SpringProject
 
 
 recipe Searching project consists of 1 Android App and 1 Spring mybatis project
