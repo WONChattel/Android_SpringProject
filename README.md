@@ -1,3 +1,4 @@
+
 # Android_SpringProject
 
 
@@ -13,3 +14,4 @@ recipe Searching project consists of 1 Android App and 1 Spring mybatis project
 검색방식 2: 메인버튼 4개중 레시피검색 클릭 - 검색어 입력 요청후 데이터 받음 - 아이템 클릭시 상세화면
 <img width="283" alt="구동 1-1" src="https://user-images.githubusercontent.com/85689054/125740035-a4092fb8-089a-4813-8cd8-ca7365e75d3e.png">
 
+[프로젝트.pdf](https://github.com/WONChattel/Android_SpringProject/files/6890735/default.pdf)
